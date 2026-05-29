@@ -19,7 +19,7 @@ public class Program {
         sc.nextLine();
 
         for (int i = 1; i <= n; i++) {
-            System.out.println("Product " + i + " data:");
+            System.out.println("Product #" + i + " data:");
             System.out.print("Common, used or imported (c/u/i)? ");
             char op = sc.nextLine().charAt(0);
             System.out.print("Name: ");
@@ -31,7 +31,7 @@ public class Program {
                 list.add(new Product(name, price));
             } else if (op == 'u') {
                 System.out.print("Manufacture date (DD/MM/YYYY): ");
-                LocalDate date = LocalDate.parse(sc.next(), DateTimeFormatter.ofPattern("dd/mm/YYYY"));
+                LocalDate date = LocalDate.parse(sc.next(), DateTimeFormatter.ofPattern("dd/MM/yyyy"));
                 list.add(new UsedProduct(name, price, date));
             } else if (op == 'i') {
                 System.out.print("Custom fee: ");
@@ -40,6 +40,7 @@ public class Program {
                 list.add(new ImportedProduct(name, price, customFee));
             }
         }
+        System.out.println();
         System.out.println("PRICE TAGS:");
         for (Product product: list){
             System.out.println(product.priceTag());

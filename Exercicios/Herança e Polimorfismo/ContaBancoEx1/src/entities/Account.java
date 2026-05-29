@@ -1,6 +1,8 @@
 package entities;
 
-public class Account {
+import java.util.AbstractCollection;
+
+public abstract class Account {
     private Integer number;
     private String holder;
     protected Double balance;
