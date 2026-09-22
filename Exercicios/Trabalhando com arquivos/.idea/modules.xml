@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioLeituraArquivo/DesafioLeituraArquivo.iml" filepath="$PROJECT_DIR$/DesafioLeituraArquivo/DesafioLeituraArquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExFileAndBufferedWriter/ExFileAndBufferedWriter.iml" filepath="$PROJECT_DIR$/ExFileAndBufferedWriter/ExFileAndBufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Trabalhando com arquivos.iml" filepath="$PROJECT_DIR$/.idea/Trabalhando com arquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio2/exercicio2.iml" filepath="$PROJECT_DIR$/exercicio2/exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios1/exercicios1.iml" filepath="$PROJECT_DIR$/exercicios1/exercicios1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manipulacaoDePasta/manipulacaoDePasta.iml" filepath="$PROJECT_DIR$/manipulacaoDePasta/manipulacaoDePasta.iml" />
+    </modules>
+  </component>
+</project>

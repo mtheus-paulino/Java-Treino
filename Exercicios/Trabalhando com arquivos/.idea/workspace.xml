@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ff78ebd-14d6-4d9f-bf13-6e31beb0553e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Generics_Set_Map/GenericsEx1/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics_Set_Map/GenericsEx1/src/services/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/DefaultMethodsEx1/src/services/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/DefaultMethodsEx1/src/services/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/DefaultMethodsEx1/src/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/InterfaceComparableEx1/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/automateContracts/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/automateContracts/src/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/automateContracts/src/entities/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/automateContracts/src/service/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/automateContracts/src/service/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/automateContracts/src/service/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/locacao2.0/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/locacao2.0/src/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/locacao2.0/src/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/locacao2.0/src/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/locacao2.0/src/model/service/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/locacao2.0/src/model/service/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/locacao2.0/src/model/service/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tratamento de Exceções/WithdrawExercicio/untitled/src/model/entities/contaexecutivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composição/comentarios/src/entities/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composição/comentarios/src/entities/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Enums/Calculo de contrato por hora/CalculoContratosHoras/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Enums/Calculo de contrato por hora/CalculoContratosHoras/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioLeituraArquivo/DesafioLeituraArquivo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio2/exercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manipulacaoDePasta/manipulacaoDePasta.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JYDzMVWYKBdO2wxudPf7wd9a6Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Teste/projetos java/Java-Treino/Exercicios/Trabalhando com arquivos"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ff78ebd-14d6-4d9f-bf13-6e31beb0553e" name="Changes" comment="" />
+      <created>1789829369532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789829369532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

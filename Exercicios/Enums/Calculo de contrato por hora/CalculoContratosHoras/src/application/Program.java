@@ -33,7 +33,7 @@ public class Program {
         int n = sc.nextInt();
 
         for (int i = 1; i <= n; i++){
-            System.out.println("Enter contract #" + 1 + "data:");
+            System.out.println("Enter contract #" + i + "data:");
             System.out.print("Date (DD/MM/YYYY): ");
             Date contractDate = sdf.parse(sc.next());
             System.out.print("Value per hour: ");
@@ -45,7 +45,7 @@ public class Program {
         }
 
         System.out.println();
-        System.out.println("Enter month and yer to calculate income (MM/YYYY): ");
+        System.out.println("Enter month and year to calculate income (MM/YYYY): ");
         String monthAndYear = sc.next();
         int month = Integer.parseInt(monthAndYear.substring(0,2));
         int year = Integer.parseInt(monthAndYear.substring(3));

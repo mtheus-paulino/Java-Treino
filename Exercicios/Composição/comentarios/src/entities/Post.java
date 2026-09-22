@@ -11,7 +11,7 @@ public class Post {
     private String content;
     private Integer likes;
 
-     private static SimpleDateFormat ftm1 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+    private static SimpleDateFormat ftm1 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
     List<Comment> comments = new ArrayList<>();
 
     public Post(Date moment, String title, String content, Integer likes) {
