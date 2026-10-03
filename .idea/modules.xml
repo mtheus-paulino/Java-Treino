@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Array/ArrayAlturaMedia/ArrayAlturaMedia.iml" filepath="$PROJECT_DIR$/Exercicios/Array/ArrayAlturaMedia/ArrayAlturaMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Array/ArrayEmVetor/ArrayEmVetor.iml" filepath="$PROJECT_DIR$/Exercicios/Array/ArrayEmVetor/ArrayEmVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beecrowd/Beecrowd.iml" filepath="$PROJECT_DIR$/Beecrowd/Beecrowd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Metodos Abstratos/CalcContribuinte/CalcContribuinte.iml" filepath="$PROJECT_DIR$/Exercicios/Metodos Abstratos/CalcContribuinte/CalcContribuinte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CofrinhoFaculdade/CofrinhoFaculdade.iml" filepath="$PROJECT_DIR$/CofrinhoFaculdade/CofrinhoFaculdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Composição/Composição.iml" filepath="$PROJECT_DIR$/Exercicios/Composição/Composição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Herança e Polimorfismo/ContaBancoEx1/ContaBancoEx1.iml" filepath="$PROJECT_DIR$/Exercicios/Herança e Polimorfismo/ContaBancoEx1/ContaBancoEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Interfaces/DefaultMethodsEx1/DefaultMethodsEx1.iml" filepath="$PROJECT_DIR$/Exercicios/Interfaces/DefaultMethodsEx1/DefaultMethodsEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/DesafioLeituraArquivo/DesafioLeituraArquivo.iml" filepath="$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/DesafioLeituraArquivo/DesafioLeituraArquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Enums/Enums.iml" filepath="$PROJECT_DIR$/Exercicios/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Metodos Abstratos/Ex1AreasDeFiguras/Ex1AreasDeFiguras.iml" filepath="$PROJECT_DIR$/Exercicios/Metodos Abstratos/Ex1AreasDeFiguras/Ex1AreasDeFiguras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/ExFileAndBufferedWriter/ExFileAndBufferedWriter.iml" filepath="$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/ExFileAndBufferedWriter/ExFileAndBufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Tratamento de Exceções/Exemplo1/Exemplo1.iml" filepath="$PROJECT_DIR$/Exercicios/Tratamento de Exceções/Exemplo1/Exemplo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Herança e Polimorfismo/Exercicio1/Exercicio1.iml" filepath="$PROJECT_DIR$/Exercicios/Herança e Polimorfismo/Exercicio1/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Herança e Polimorfismo/ExercicioValorPorHora/ExercicioValorPorHora.iml" filepath="$PROJECT_DIR$/Exercicios/Herança e Polimorfismo/ExercicioValorPorHora/ExercicioValorPorHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Generics_Set_Map/Generics_Set_Map.iml" filepath="$PROJECT_DIR$/Exercicios/Generics_Set_Map/Generics_Set_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Interfaces/HerdarXImplementar/HerdarXImplementar.iml" filepath="$PROJECT_DIR$/Exercicios/Interfaces/HerdarXImplementar/HerdarXImplementar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Interfaces/InterfaceComparableEx1/InterfaceComparableEx1.iml" filepath="$PROJECT_DIR$/Exercicios/Interfaces/InterfaceComparableEx1/InterfaceComparableEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Treino.iml" filepath="$PROJECT_DIR$/.idea/Java-Treino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Ordem De Serviço/Ordem De Serviço.iml" filepath="$PROJECT_DIR$/Exercicios/Ordem De Serviço/Ordem De Serviço.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Array/QuartoPensionato/QuartoPensionato.iml" filepath="$PROJECT_DIR$/Exercicios/Array/QuartoPensionato/QuartoPensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho-Faculdade/Trabalho-Faculdade.iml" filepath="$PROJECT_DIR$/Trabalho-Faculdade/Trabalho-Faculdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Tratamento de Exceções/WithdrawExercicio/WithdrawExercicio.iml" filepath="$PROJECT_DIR$/Exercicios/Tratamento de Exceções/WithdrawExercicio/WithdrawExercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Interfaces/automateContracts/automateContracts.iml" filepath="$PROJECT_DIR$/Exercicios/Interfaces/automateContracts/automateContracts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/exercicio2/exercicio2.iml" filepath="$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/exercicio2/exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/exercicios1/exercicios1.iml" filepath="$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/exercicios1/exercicios1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Interfaces/locacao/locacao.iml" filepath="$PROJECT_DIR$/Exercicios/Interfaces/locacao/locacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Interfaces/locacao2.0/locacao2.0.iml" filepath="$PROJECT_DIR$/Exercicios/Interfaces/locacao2.0/locacao2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/manipulacaoDePasta/manipulacaoDePasta.iml" filepath="$PROJECT_DIR$/Exercicios/Trabalhando com arquivos/manipulacaoDePasta/manipulacaoDePasta.iml" />
+    </modules>
+  </component>
+</project>
