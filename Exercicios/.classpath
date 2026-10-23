@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Array/ArrayAlturaMedia/src"/>
+	<classpathentry kind="src" path="Array/ArrayEmVetor/src"/>
+	<classpathentry kind="src" path="Array/QuartoPensionato/src"/>
+	<classpathentry kind="src" path="Composição/comentarios/src"/>
+	<classpathentry kind="src" path="Enums/Calculo de contrato por hora/CalculoContratosHoras/src"/>
+	<classpathentry kind="src" path="Generics_Set_Map/GenericsEx1/src"/>
+	<classpathentry kind="src" path="Generics_Set_Map/GenericsEx2/src"/>
+	<classpathentry kind="src" path="Generics_Set_Map/hashCode_equalsEx1/src"/>
+	<classpathentry kind="src" path="Generics_Set_Map/wildcardtypesEX1/src"/>
+	<classpathentry kind="src" path="Generics_Set_Map/wildcardtypesEX2/src"/>
+	<classpathentry kind="src" path="Herança e Polimorfismo/ContaBancoEx1/src"/>
+	<classpathentry kind="src" path="Herança e Polimorfismo/Exercicio1/src"/>
+	<classpathentry kind="src" path="Herança e Polimorfismo/ExercicioValorPorHora/untitled/src"/>
+	<classpathentry kind="src" path="Interfaces/automateContracts/src"/>
+	<classpathentry kind="src" path="Interfaces/DefaultMethodsEx1/src"/>
+	<classpathentry kind="src" path="Interfaces/HerdarXImplementar/src"/>
+	<classpathentry kind="src" path="Interfaces/InterfaceComparableEx1/src"/>
+	<classpathentry kind="src" path="Interfaces/locacao/src"/>
+	<classpathentry kind="src" path="Interfaces/locacao2.0/src"/>
+	<classpathentry kind="src" path="Metodos Abstratos/CalcContribuinte/src"/>
+	<classpathentry kind="src" path="Metodos Abstratos/Ex1AreasDeFiguras/src"/>
+	<classpathentry kind="src" path="Ordem De Serviço/OrdemDeServico/src"/>
+	<classpathentry kind="src" path="Trabalhando com arquivos/DesafioLeituraArquivo/src"/>
+	<classpathentry kind="src" path="Trabalhando com arquivos/exercicio2/src"/>
+	<classpathentry kind="src" path="Trabalhando com arquivos/exercicios1/src"/>
+	<classpathentry kind="src" path="Trabalhando com arquivos/ExFileAndBufferedWriter/fileAndBuffered/src"/>
+	<classpathentry kind="src" path="Trabalhando com arquivos/manipulacaoDePasta/src"/>
+	<classpathentry kind="src" path="Tratamento de Exceções/Exemplo1/src"/>
+	<classpathentry kind="src" path="Tratamento de Exceções/WithdrawExercicio/untitled/src"/>
+	<classpathentry kind="output" path="Generics_Set_Map/GenericsEx2/bin"/>
+</classpath>
